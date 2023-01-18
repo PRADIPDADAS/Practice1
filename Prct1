@@ -1,7 +1,8 @@
-<html>
-<body>
-<input>
-</input>
-		<Text><Pradip></text>
-</body>
-</html>
+class main
+{
+public static void main(String[]args)
+{
+System.out.println("Hello World);
+}
+}
+
